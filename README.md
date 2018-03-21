@@ -1,6 +1,6 @@
 # Viewability for AT Internet JavaScript SmartTag
 
-This plugin allows you to measure which element on the page were actually seen by the browser, just by adding an attribute to your elements.
+This plugin allows you to measure which elements on the page were actually seen by the browser, just by adding an attribute to your elements.
 
 ## Content
 
